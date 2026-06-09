@@ -1,0 +1,13 @@
+package com.pluralsight.sneakerdrop;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SneakerDrop2ApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
