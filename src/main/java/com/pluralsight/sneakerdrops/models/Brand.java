@@ -4,7 +4,7 @@ import jakarta.persistence.*;
 
 @Entity
 public class Brand {
-    //Primary Key
+    /*Primary Key*/
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
