@@ -1,4 +1,4 @@
-package sneakerdrops;
+package com.pluralsight.sneakerdrops;
 
 import com.pluralsight.sneakerdrops.service.DropService;
 import org.springframework.beans.factory.annotation.Autowired;
